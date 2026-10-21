@@ -171,4 +171,6 @@ make docs
 - [GitHub Issues](https://github.com/t8y2/dbx/issues)
 - [官方文档](https://dbxio.com/cn/docs/what-is-dbx)
 
-希望出现在 [DBX 贡献墙](https://dbxio.com/cn/community)，需要使用对应的 GitHub 账号发起至少一个已合并到 `t8y2/dbx` 的 PR；仅有提交记录不满足展示条件。请用希望署名的账号创建 PR。
+合并后的贡献者会出现在 [DBX 贡献墙](https://dbxio.com/cn/community)。
+
+贡献墙按发起并合入 `t8y2/dbx` 的 PR 的 GitHub 账号认定；仅有提交记录不满足展示条件。请用希望署名的账号创建 PR。
